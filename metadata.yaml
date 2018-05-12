@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/498
     wikipedia: http://en.wikipedia.org/wiki/Edward_Lear
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20113#Nonsense-DrolleriesThe-Owl--amp--The-Pussy-Cat-The-Duck--amp--The-Kangaroo.
 gutenberg_bookshelf:
 - Humor
 - Children's Verse
